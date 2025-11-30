@@ -1,0 +1,6 @@
+#name=input("enter your name:")
+#print("your name is:",name)
+x=input("Enter first number:")
+y=input("Enter second number:")
+print(x+y)
+print("sum:",int(x)+int(y))
